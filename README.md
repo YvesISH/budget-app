@@ -7,5 +7,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Functionalities
 
-- You add the Budget (You give it a name and a maximum spending)
-- On the created budget you You add, view or delete the expense
+- You add the Budget (You give it a name and the maximum spending)
+- On the created budget you can add, view or delete the expenses
